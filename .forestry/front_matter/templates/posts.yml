@@ -1,0 +1,26 @@
+---
+pages:
+- _posts/2016-07-20-second.md
+- _posts/2016-06-10-first.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: desc
+  label: Desc
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post

@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
-
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
-
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
+Krasileva lab studies fundamental principles of plant innate immunity and the use of genomics in basic and translational research. We study evolution of plant immune genes, as well as whole plant genome organization. Availability of plant genomes, decoded natural and induced variation in large populations of crops and availability of CRISPR technologies allow for pathway dissection and engineering of favourable traits in short time span. We are driven to combine fundamental research with modern technologies and translational studies to make impact on food security today.
 </div>

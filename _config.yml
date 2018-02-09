@@ -35,8 +35,8 @@ navigation:
   - title: Projects
     url: /projects/
     desc: Stuffs I like to do
-  - title: Work
-    url: /work/
+  - title: Toolbox
+    url: /toolbox/
     desc: Stuffs I hate to do
   - title: About
     url: /about/

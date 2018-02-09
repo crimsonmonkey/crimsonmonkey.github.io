@@ -32,8 +32,8 @@ navigation:
   - title: Articles
     url: /articles/
     desc: Stuffs I write about
-  - title: Projects
-    url: /projects/
+  - title: People
+    url: /people/
     desc: Stuffs I like to do
   - title: Toolbox
     url: /toolbox/

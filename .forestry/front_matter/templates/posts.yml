@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/this-is-a-test-post.md
 - _posts/_pages/sample-proj.md
 - _posts/2016-07-20-second.md
 - _posts/2016-06-10-first.md

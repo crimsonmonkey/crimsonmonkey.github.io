@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: I am a smart heading.
 desc: About me.
-permalink: /about/
+permalink: "/about/"
 ---
 
 <div class="pretty-links">

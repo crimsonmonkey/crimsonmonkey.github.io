@@ -3,7 +3,7 @@ layout: page
 title: Project
 permalink: projects/sample-project/
 subtitle: Sample project
-date: 2018-03-11 08:50:42 +0000
+date: 2018-03-11 09:04:24 +0000
 ---
 
 ## Liber orbes sternentemque nunc mortalia rotae supplex

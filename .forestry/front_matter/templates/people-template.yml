@@ -9,3 +9,7 @@ fields:
   name: your_photo
   label: Your Photo
   description: Upload your photo
+- type: textarea
+  name: about_you
+  label: About You
+  description: Info about you

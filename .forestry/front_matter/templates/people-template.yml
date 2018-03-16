@@ -1,0 +1,11 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Your Name
+  name: your_name
+  description: Lab members name
+- type: file
+  name: your_photo
+  label: Your Photo
+  description: Upload your photo

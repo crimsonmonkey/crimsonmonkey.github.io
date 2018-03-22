@@ -9,9 +9,7 @@ permalink: "/about/"
 
 <div class="lead lead-about">
 
-{::nomarkdown} <figure class="site-profile"> <img src="{{ site.baseurl }}/assets/img/profile.png"> </figure> {:/}
-
-Our research program combines **plant genomics** and **plant-microbe interactions**. Our vision is to combine new technologies, especially genomics with fundamental biology and translational research to make an impact on agriculture and food security. 
+Our research program combines **plant genomics** and **plant-microbe interactions**. Our vision is to combine new technologies, especially genomics with fundamental biology and translational research to make an impact on agriculture and food security.
 
 </div>
 
@@ -29,11 +27,11 @@ We deployed exome capture and bulk segregant analysis of mutations in F2 populat
 
 ## **Evolution of plant immune receptors**
 
-Plant NLR immune receptors enable plants to recognize diverse pathogens. Plant deploy multiple mechanisms of NLR diversification and regulation (Baggs, Dagdas and Krasileva, Curr Opinion 2017). Our evolutionary analyses of nine grass species (Setaria, Brachypodium, barley, rice, maize, wheat, and two wild wheat progenitors) demonstrated diverse fusions of genes originating from different chromosomes to a specific clade of plant NLR immune receptors (Bailey et al, in review). Based on current data, the most likely mechanism is non-homologous recombination where a nicking of DNA right after an NLR is repaired with DNA from another genomic location.  
+Plant NLR immune receptors enable plants to recognize diverse pathogens. Plant deploy multiple mechanisms of NLR diversification and regulation (Baggs, Dagdas and Krasileva, Curr Opinion 2017). Our evolutionary analyses of nine grass species (Setaria, Brachypodium, barley, rice, maize, wheat, and two wild wheat progenitors) demonstrated diverse fusions of genes originating from different chromosomes to a specific clade of plant NLR immune receptors (Bailey et al, in review). Based on current data, the most likely mechanism is non-homologous recombination where a nicking of DNA right after an NLR is repaired with DNA from another genomic location.
 
 {::nomarkdown} <figure class="site-profile"> <img src="{{ site.baseurl }}/assets/img/profile.png"> </figure> {:/}
 
-In comparison to the Poaceae, other plant families have lower numbers of NLRs. Analysis of nearly 80 plant genomes revealed several independent events of lineage specific NLR contractions. NLR phylogenies across diverse families also revealed conservation of subclasses of NLRs. We propose that these conserved NLRs are candidates for a minimal functional plant immunity. 
+In comparison to the Poaceae, other plant families have lower numbers of NLRs. Analysis of nearly 80 plant genomes revealed several independent events of lineage specific NLR contractions. NLR phylogenies across diverse families also revealed conservation of subclasses of NLRs. We propose that these conserved NLRs are candidates for a minimal functional plant immunity.
 
 Finally, we have identified maize and Sorghum lineages as a prime candidates for additional evolutionary analyses. Unlike other grasses, maize exhibits a putative reduction in NLR genes. We are applying targeted re-seuqncing with PacBio to determine if this reduction is due to domestication, inbreeding, or extensive balancing selection that maintains fewer loci in each genome.
 

@@ -19,62 +19,39 @@ Driven by these principles,
 
 ·      we apply genomic analyses across the plant kingdom to understand evolution of immunity
 
-·      we work on understanding fundamental principles of plant immune receptor evolution and function to engineer new pathogen recognition specificities
+·      we work on understanding fundamental principles of plant immune receptor evolution and function 
 
-Our long-term goal is to generate healthy disease resistant plants. 
+Our long-term goal is to engineer plant immunity and plant immune receptors with new pathogen recognition specificities.
 
 </div>
 
 ---
 
-## Quem fata quamvis
+## **Mutational genomics to enhance disease resistance**
 
-Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
-sublimis conde!
+ 
 
-Captum ligno nepotum arisque dimittere
-[maternaque](http://estumectat.net/fugae). Quae maior Typhoeus ramis huius aura
-deprendit instat hirsuta. Miserrima inque: tibi qua, ultimus a Agaue vallibus
-dictos.
+We have previously identified 34 mutant lines with enhanced adult plant resistance phenotypes against yellow rust. Our goal is to identify mutations linked to resistance and clone genes with causative mutations.
 
-1. Perseus est
-2. O Osiris accedat
-3. Repetita usum
+Initially, we identified 34 mutant lines in the US field trials. Now this collection has been re-grown for 3rd year phenotyping in the UK confirming broad spectrum resistance in 16 lines. The collection is also being evaluated in the fields in Kenya (yellow rust and stem rust) through collaboration with CIMMYT and the Gates foundation.
 
-Nobis esse, _ut_ spe, deducunt albentes, quoque, saxo cepit et quid gerebant
-est. Magnae haec quod, iugeribus gemmata. Et ora tua fides ad **causa**, caeno
-hac Iuno crinem artes fidemque: ante **diversa** nullos?
+We deployed exome capture and bulk segregant analysis of mutations in F2 population to map genetic interval co-segregating with resistance in the first mutant line. Utilizing EI’s DRAGEN Bio-IT processor (Edico Genomics), we were able to reduce the processing time from days to minutes per sample. For several other mutant lines, we have advanced genetic material at TSL to the F2/3 generations and scored additional populations in the field in May 2017.
 
-## Si leti tegit undis quam
+## **Evolution of plant immune receptors**
 
-Lorem markdownum caesariem aequore virtus nunc vittas, nec perosus urbem est:
-verba est eripere quater obvertit geminaverat amore. Ac freto. Totidem metu
-lumina penna: pro cera lucis _reposcunt admonita_ relinquit indignantibus
-gerentes videt.
+ 
 
-Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. _Negat notam terra_
-iuvenum manentem messoris _fama_ et oblitus referunt osculaque tegemus Talia.
-Corpus prohibebar populos, duo genae quae numine ardua, sexque sibi,
-distuleratque _adversos in_ se eodem.
+Plant NLR immune receptors enable plants to recognize diverse pathogens. Plant deploy multiple mechanisms of NLR diversification and regulation (Baggs, Dagdas and Krasileva, Curr Opinion 2017). Our evolutionary analyses of nine grass species (Setaria, Brachypodium, barley, rice, maize, wheat, and two wild wheat progenitors) demonstrated diverse fusions of genes originating from different chromosomes to a specific clade of plant NLR immune receptors (Bailey et al, in review). Based on current data, the most likely mechanism is non-homologous recombination where a nicking of DNA right after an NLR is repaired with DNA from another genomic location.  
 
-* Poenas caput
-* Apud placato in extemplo inmemores ambit
-* Mea Cnosiaci atria nascendi sanguis inanem leonis
-* Se versis si Iasonis artis cepit et
-* Senes in idem tegmina
+In comparison to the Poaceae, other plant families have lower numbers of NLRs. Analysis of nearly 80 plant genomes revealed several independent events of lineage specific NLR contractions. NLR phylogenies across diverse families also revealed conservation of subclasses of NLRs. We propose that these conserved NLRs are candidates for a minimal functional plant immunity. 
 
-Ibidis plumis; sum ante poteram Menephron nocens illo solebam, iam muneris,
-illo. Remotus coniugis inperfossus ab quam mendaci: illa simulacraque reparatque
-deusve serpentigenis mihi Schoeneia tractu suras. Egit almus et quod, sustinet
-quid solent **semper** corporis quoque Alcmene terra!
+Finally, we have identified maize and Sorghum lineages as a prime candidates for additional evolutionary analyses. Unlike other grasses, maize exhibits a putative reduction in NLR genes. We are applying targeted re-seuqncing with PacBio to determine if this reduction is due to domestication, inbreeding, or extensive balancing selection that maintains fewer loci in each genome.
 
 ---
 
-## Abit inque et palato sibila telorum at
+## Our ongoing research aims
 
-Lorem markdownum mirabatur haut, non morte, nisi et sepulcro Exigit, est, per
-illa iusserat memorabile. Pater damus multa, in lucosque carent oculis adsum
-miseris. Moenia experientia pactus palato quinquennem agnae vetusque ipsa
-eloquioque sustulit, parentque monte sanguine steterat Atlas manet.
+1. Understand the Effects of domestication, hybridization and inbreeding on NLR immune receptors.
+2. Engineering plant immunity using CRISPR and synthetic biology.
 
 </div>

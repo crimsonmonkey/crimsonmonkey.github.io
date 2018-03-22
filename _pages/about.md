@@ -5,19 +5,25 @@ subtitle: Our research vision
 desc: About me.
 permalink: "/about/"
 ---
-
 <div class="pretty-links">
 
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
-</div>
+<div class="lead lead-about">Our research program combines **plant genomics** and **plant-microbe interactions**. Our vision is to combine new technologies, especially genomics with fundamental biology and translational research to make an impact on agriculture and food security. Driven by these principles,
 
-{::nomarkdown} 
+·      we continue to develop wheat as model organism providing tools for the community
+
+·      we apply genomic analyses across the plant kingdom to understand evolution of immunity
+
+·      we work on understanding fundamental principles of plant immune receptor evolution and function to engineer new pathogen recognition specificities
+
+Our long-term goal is to generate healthy disease resistant plants that can be used in agriculture. </div>
+
+{::nomarkdown}
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.png">
+<img src="{{ site.baseurl }}/assets/img/profile.png">
 </figure>
 {:/}
 
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
+Neve aethere orbe hic _virginis trunco_ in spreto diuque latarumque, mea? Ultima
 sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
 Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
 [candida](http://murmure.org/.html).
@@ -38,7 +44,7 @@ dictos.
 2. O Osiris accedat
 3. Repetita usum
 
-Nobis esse, *ut* spe, deducunt albentes, quoque, saxo cepit et quid gerebant
+Nobis esse, _ut_ spe, deducunt albentes, quoque, saxo cepit et quid gerebant
 est. Magnae haec quod, iugeribus gemmata. Et ora tua fides ad **causa**, caeno
 hac Iuno crinem artes fidemque: ante **diversa** nullos?
 
@@ -46,19 +52,19 @@ hac Iuno crinem artes fidemque: ante **diversa** nullos?
 
 Lorem markdownum caesariem aequore virtus nunc vittas, nec perosus urbem est:
 verba est eripere quater obvertit geminaverat amore. Ac freto. Totidem metu
-lumina penna: pro cera lucis *reposcunt admonita* relinquit indignantibus
+lumina penna: pro cera lucis _reposcunt admonita_ relinquit indignantibus
 gerentes videt.
 
-Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. *Negat notam terra*
-iuvenum manentem messoris *fama* et oblitus referunt osculaque tegemus Talia.
+Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. _Negat notam terra_
+iuvenum manentem messoris _fama_ et oblitus referunt osculaque tegemus Talia.
 Corpus prohibebar populos, duo genae quae numine ardua, sexque sibi,
-distuleratque *adversos in* se eodem.
+distuleratque _adversos in_ se eodem.
 
-- Poenas caput
-- Apud placato in extemplo inmemores ambit
-- Mea Cnosiaci atria nascendi sanguis inanem leonis
-- Se versis si Iasonis artis cepit et
-- Senes in idem tegmina
+* Poenas caput
+* Apud placato in extemplo inmemores ambit
+* Mea Cnosiaci atria nascendi sanguis inanem leonis
+* Se versis si Iasonis artis cepit et
+* Senes in idem tegmina
 
 Ibidis plumis; sum ante poteram Menephron nocens illo solebam, iam muneris,
 illo. Remotus coniugis inperfossus ab quam mendaci: illa simulacraque reparatque
@@ -75,4 +81,3 @@ miseris. Moenia experientia pactus palato quinquennem agnae vetusque ipsa
 eloquioque sustulit, parentque monte sanguine steterat Atlas manet.
 
 </div>
-

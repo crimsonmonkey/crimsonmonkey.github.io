@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: I am a smart heading.
+title: Projects
+subtitle: Our research vision
 desc: About me.
 permalink: "/about/"
 ---

@@ -13,16 +13,6 @@ Our research program combines **plant genomics** and **plant-microbe interaction
 
 {::nomarkdown} <figure class="site-profile"> <img src="{{ site.baseurl }}/assets/img/profile.png"> </figure> {:/}
 
-Driven by these principles,
-
-·      we continue to develop wheat as model organism providing tools for the community
-
-·      we apply genomic analyses across the plant kingdom to understand evolution of immunity
-
-·      we work on understanding fundamental principles of plant immune receptor evolution and function 
-
-Our long-term goal is to engineer plant immunity and plant immune receptors with new pathogen recognition specificities.
-
 </div>
 
 ---

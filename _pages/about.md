@@ -19,8 +19,6 @@ Our research program combines **plant genomics** and **plant-microbe interaction
 
 ## **Mutational genomics to enhance disease resistance**
 
- 
-
 We have previously identified 34 mutant lines with enhanced adult plant resistance phenotypes against yellow rust. Our goal is to identify mutations linked to resistance and clone genes with causative mutations.
 
 Initially, we identified 34 mutant lines in the US field trials. Now this collection has been re-grown for 3rd year phenotyping in the UK confirming broad spectrum resistance in 16 lines. The collection is also being evaluated in the fields in Kenya (yellow rust and stem rust) through collaboration with CIMMYT and the Gates foundation.
@@ -37,7 +35,7 @@ Finally, we have identified maize and Sorghum lineages as a prime candidates for
 
 ---
 
-## Our research aims
+## Our ongoing research aims
 
 1. Understand the Effects of domestication, hybridization and inbreeding on NLR immune receptors.
 2. Engineering plant immunity using CRISPR and synthetic biology.

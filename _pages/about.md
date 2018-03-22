@@ -15,7 +15,7 @@ permalink: "/about/"
 
 ·      we work on understanding fundamental principles of plant immune receptor evolution and function to engineer new pathogen recognition specificities
 
-Our long-term goal is to generate healthy disease resistant plants that can be used in agriculture. </div>
+Our long-term goal is to generate healthy disease resistant plants. </div>
 
 {::nomarkdown}
 <figure class="site-profile">

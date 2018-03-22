@@ -7,7 +7,13 @@ permalink: "/about/"
 ---
 <div class="pretty-links">
 
-<div class="lead lead-about">Our research program combines **plant genomics** and **plant-microbe interactions**. Our vision is to combine new technologies, especially genomics with fundamental biology and translational research to make an impact on agriculture and food security. Driven by these principles,
+<div class="lead lead-about">
+
+Our research program combines **plant genomics** and **plant-microbe interactions**. Our vision is to combine new technologies, especially genomics with fundamental biology and translational research to make an impact on agriculture and food security. 
+
+{::nomarkdown} <figure class="site-profile"> <img src="{{ site.baseurl }}/assets/img/profile.png"> </figure> {:/}
+
+Driven by these principles,
 
 ·      we continue to develop wheat as model organism providing tools for the community
 
@@ -15,18 +21,9 @@ permalink: "/about/"
 
 ·      we work on understanding fundamental principles of plant immune receptor evolution and function to engineer new pathogen recognition specificities
 
-Our long-term goal is to generate healthy disease resistant plants. </div>
+Our long-term goal is to generate healthy disease resistant plants. 
 
-{::nomarkdown}
-<figure class="site-profile">
-<img src="{{ site.baseurl }}/assets/img/profile.png">
-</figure>
-{:/}
-
-Neve aethere orbe hic _virginis trunco_ in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
+</div>
 
 ---
 

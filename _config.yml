@@ -40,7 +40,7 @@ navigation:
     desc: Github toolbox
   - title: About
     url: /about/
-    desc: Learn about me
+    desc: Learn about the group
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:

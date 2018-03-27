@@ -12,9 +12,9 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
-author: The Jackal
-twitter_username: clenemt
+email: krasileva.lab@gmail.com
+author: KVK Lab
+twitter_username: kseniakrasileva
 github_username: clenemt
 github_source: jackal
 

@@ -1,7 +1,7 @@
 ---
 pages:
-- _pages/ruby-o-grady.md
 - _pages/andrew-deatker.html
+- _pages/ruby-o-grady.md
 hide_body: false
 fields:
 - type: text

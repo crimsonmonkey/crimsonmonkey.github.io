@@ -25,15 +25,15 @@ We identified our candidate mutant lines directly in the US field trials. We tes
 
 We deployed exome capture and bulk segregant analysis of mutations in F2 population to map genetic interval co-segregating with resistance in the first mutant line. Wheat has a complex genome, 5x larger than human genome, and procesing wheat genomic data remains a computational challenge. Utilizing DRAGEN Bio-IT processor (Edico Genomics) availabe at [Earlham Institute](http://www.earlham.ac.uk/dragen-processor), we were able to reduce the processing time from days to minutes per sample.
 
-For 11 mutant lines, we have advanced genetic material at the Sainsbury Laboratory to the F2/3 generations and are scoring additional populations in the field in 2018, aiming to de-cipher the resistance genes within the next year.
+We have advanced genetic material to the F2/3 generations and are scoring them in the field, aiming to de-cipher the resistance genes within the next year.
 
 The next step after we know what mutations have beneficial effect on disease resistance is introducing them to elite varieties grown across the world. We are taking two complimentary approaches 1) mining natural variation in wheat for alleles similar to our induced changes from projects such as [WHEALBI ]()where the data is available on >500 wheat lines representing worldwide and historical diversity 2) introducing precise changes into elite varieties using genome editing.
 
 And of course, we are planning more mutational genomics screens, both in the field and in the lab.
 
-## **Evolution of plant immune receptors**
+## **Evolution and function of plant immune receptors**
 
-Plant NLR immune receptors enable plants to recognize diverse pathogens. Plant deploy multiple mechanisms of NLR diversification and regulation. [Here is our review on this topic]().  
+Plant NLR immune receptors enable plants to recognize diverse pathogens. Plant deploy multiple mechanisms of NLR diversification and regulation. [Here is our review on this topic]().
 
 We are interested to understand evolution of NLRs on multiple levels: 1) within single organism. How much diversity is generated in each generation? 2) On a population levels. How much immune receptor diversity does a field of grass have? 3) Across species 4) Across kingdom We are keen to examine effects of domestication and hybridization on NLR evolution on all these levels.
 

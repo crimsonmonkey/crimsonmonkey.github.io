@@ -43,7 +43,7 @@ navigation:
     desc: Learn about the group
   - title: Publications
     url: /publications/
-    desc: Our publications
+    desc: Our group publications
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:

@@ -41,7 +41,7 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about the group
-    - title: Publications
+  - title: Publications
     url: /publications/
     desc: Our publications
 

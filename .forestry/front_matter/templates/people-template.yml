@@ -3,6 +3,7 @@ pages:
 - _pages/erin-baggs.html
 - _pages/andrew-deatker.html
 hide_body: false
+is_partial: false
 fields:
 - type: text
   label: Your Name

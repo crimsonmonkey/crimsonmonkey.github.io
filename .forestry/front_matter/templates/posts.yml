@@ -6,6 +6,7 @@ pages:
 - _posts/_pages/sample-proj.md
 - _posts/2016-07-20-second.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
